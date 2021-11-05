@@ -1,0 +1,6 @@
+I ripped these files from the game, they aren't rips from the actual cards. 
+There may be subtle differences in these files than a real rip, but these work in game which was my only goal.
+They may not work in some tag writing apps because the app developers haven't added these amiibos to their list yet.
+I haven't tested ALL of these files, but I'm 96% confident that they're all correct.
+
+- amateur hacker, u/Muchieman
