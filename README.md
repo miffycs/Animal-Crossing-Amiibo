@@ -36,6 +36,7 @@ This repo is for educational purposes only, clone at your own risk. I do not own
 ## Credits
 
 - [Nintendo](https://animal-crossing.com/amiibo/) - All Amiibo data belongs to Nintendo, courtesy of [NFC-Bank](https://nfc-bank.com/bins.php?do=download&downloadid=1355) (site was [shut down in late 2020](https://amiibodoctor.com/2020/12/29/whatever-happened-to-nfc-bank/)).
+- [u/amiibolover99](https://www.reddit.com/user/amiibolover99/) - Special thanks to u/amiibolover99 for providing Series 5 .bin data ripped from real Amiibo cards.
 - [TagMo](https://github.com/HiddenRamblings/TagMo) - without them NFC cloning is impossible (all other apps suck).
 - [Miffy Chen](https://www.linkedin.com/in/miffychen/) - Software Engineer / Technical Project Manager at [Bolt](https://www.bolt.com/).
 On a mission to democratize commerce. We are hiring, happy to refer!
