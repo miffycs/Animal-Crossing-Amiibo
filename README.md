@@ -35,6 +35,7 @@ This repo is for educational purposes only, clone at your own risk. I do not own
 
 ## Credits
 
-- [Nintendo](https://animal-crossing.com/amiibo/) - All Amiibo data belongs to Nintendo, courtesy of [NFC-Bank](https://nfc-bank.com/bins.php?do=download&downloadid=1355).
+- [Nintendo](https://animal-crossing.com/amiibo/) - All Amiibo data belongs to Nintendo, courtesy of [NFC-Bank](https://nfc-bank.com/bins.php?do=download&downloadid=1355) (site was [shut down in late 2020](https://amiibodoctor.com/2020/12/29/whatever-happened-to-nfc-bank/)).
 - [TagMo](https://github.com/HiddenRamblings/TagMo) - without them NFC cloning is impossible (all other apps suck).
-- [Miffy Chen](https://www.linkedin.com/in/miffychen/) - recent CS grad looking for a full-time job in midst of this global pandemic. ACNH is my first AC game, but it has saved me in more ways than one during my 4+ months of quarantine since March 2019. I hope you find this guide useful. Stay safe, everyone!
+- [Miffy Chen](https://www.linkedin.com/in/miffychen/) - Software Engineer / Technical Project Manager at [Bolt](https://www.bolt.com/).
+On a mission to democratize commerce. We are hiring, happy to refer!
