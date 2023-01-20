@@ -8,11 +8,20 @@ This repo is for educational purposes only, clone at your own risk. I do not own
 
 ## Required Materials
 
-- Android Phone (with NFC capabilities)
-- Google Play account
+- Android
+  - Android Phone (with NFC capabilities)
+  - Google Play account
+- iOS
+  - iPhone 7 or later (iPads don't have the NFC module required)
+  - App Store account
 - Blank [NFC 215 tags (NTAG215)](https://www.amazon.com/s?k=nfc+215&ref=nb_sb_noss_2) (any card/sticker will do, must be blank and NTAG215. This is what official Amiibos use. 213, 216 and other commonly found tags will not work!)
 
-## Instructions
+## iOS Instructions
+
+1. Download iOS app [Tagmiibo](https://apps.apple.com/app/apple-store/id1578966288?pt=122926471&ct=github&mt=8).
+2. Follow the instructions [here](https://amiibodoctor.com/2022/01/04/the-complete-guide-to-tagmiibo-for-iphone-amiibo-bin-files/).
+
+## Android Instructions
 
 ### Set-up
 
