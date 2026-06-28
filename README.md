@@ -19,7 +19,7 @@ This repo is for educational purposes only, clone at your own risk. I do not own
 ## iOS Instructions
 
 1. Download iOS app [Tagmiibo](https://apps.apple.com/app/apple-store/id1578966288?pt=122926471&ct=github&mt=8).
-2. Follow the instructions [here](https://amiibodoctor.com/2022/01/04/the-complete-guide-to-tagmiibo-for-iphone-amiibo-bin-files/).
+2. Follow the instructions [here](https://web.archive.org/web/20240921120727/https://amiibodoctor.com/2022/01/04/the-complete-guide-to-tagmiibo-for-iphone-amiibo-bin-files/).
 
 ## Android Instructions
 
